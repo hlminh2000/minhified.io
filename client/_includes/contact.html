@@ -1,0 +1,56 @@
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<!--<form action="https://formspree.io/{{ site.email }}" method="POST">-->
+			<form action="/email" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="{{ site.email }}">{{ site.email }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+				    <span class="icon alt fa-github"></span>
+					<h3>Github</h3>
+					<a href="{{ site.github_url }}">{{ site.github_username }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+				    <span class="icon alt fa-linkedin"></span>
+					<h3>LinkedIn</h3>
+					<a href="{{ site.linkedin_url }}">{{ site.linkedin_url }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+				    <span class="icon alt fa-medium"></span>
+					<h3>LinkedIn</h3>
+					<a href="{{ site.medium_url }}">{{ site.medium_username }}</a>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
