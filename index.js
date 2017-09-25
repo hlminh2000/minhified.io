@@ -8,15 +8,11 @@ const server = http.createServer(app);
 
 app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
-app.use(express.static('client/public'))
+app.use("/", express.static('client/landing/public'))
 
 app.use('*', (res, req, next) => {
     console.log("HIT!")
     next()
-})
-
-app.get('/', function (req, res) {
-    res.send('Hello World!')
 })
 
 app.post('/email', function(req, res){
