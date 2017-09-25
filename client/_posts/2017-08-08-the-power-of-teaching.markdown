@@ -42,6 +42,6 @@ If I can teach, anyone can. I am not the most social person in the world, not th
 
 It has only been three sessions but the experience I’ve had is amazingly rich. I can’t wait to keep these sessions going and learn more through teaching. Whatever field you are in, if you have read this far, give it a try to start teaching someone something.
 
-If you are in Toronto and want to learn to code, check out our Free Code Camp Toronto group on Facebook. If you are a member and want to give it a try to run a session, reach out to us!
+If you are in Toronto and want to learn to code, check out our [Free Code Camp Toronto](https://www.facebook.com/groups/free.code.camp.to/?ref=bookmarks) group on Facebook. If you are a member and want to give it a try to run a session, reach out to us!
 
-And finally, if you happen to be a Free Code Camp local group leader, give this a shot; more value, more people, more fun! If you want to use one of my slide decks and other materials I’ve made, feel free to grab them here!
+And finally, if you happen to be a Free Code Camp local group leader, give this a shot; more value, more people, more fun! If you want to use one of my slide decks and other materials I’ve made, feel free to grab them [here](https://github.com/hlminh2000/fcc_pres)!
