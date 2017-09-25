@@ -24,9 +24,9 @@ app.post('/email', function(req, res){
     res.redirect('/')
 })
 
-server.listen(process.env.PORT || 3000, process.env.IP || "0.0.0.0", function () {
+server.listen(process.env.PORT || 50000, process.env.IP || "0.0.0.0", function () {
     console.log('https://landing-hlminh2000.c9users.io/')
     console.log('Example app listening at: ', 
         process.env.IP || "0.0.0.0",
-        process.env.PORT || 3000)
+        process.env.PORT || 50000)
 })
