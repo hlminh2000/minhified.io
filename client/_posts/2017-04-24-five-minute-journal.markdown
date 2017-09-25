@@ -11,7 +11,7 @@ description: An app for happiness
 This was my first full stack mobile side project. This project is a challenge I set for myself to build a product from scratch where I handle everything from concept to design and development.
 
 # Repo
-https://github.com/hlminh2000/fiveMinuteJournal
+<https://github.com/hlminh2000/fiveMinuteJournal>
 
 # Concept
 The app is a simple digital version of the popular Five Minute Journal, a daily journal that helps you stay focus on the positive things in life by answering five simple questions everyday.
