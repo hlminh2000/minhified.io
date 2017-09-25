@@ -10,6 +10,9 @@ description: An app for happiness
 
 This was my first full stack mobile side project. This project is a challenge I set for myself to build a product from scratch where I handle everything from concept to design and development.
 
+# Repo
+https://github.com/hlminh2000/fiveMinuteJournal
+
 # Concept
 The app is a simple digital version of the popular Five Minute Journal, a daily journal that helps you stay focus on the positive things in life by answering five simple questions everyday.
 
@@ -30,13 +33,12 @@ Check out the many design iterations we've got so far: https://goo.gl/hoUwd1
 # Latest build
 Check out the latest build off the app: https://goo.gl/AtWvzO
 
-# Preview Screenshots
-Here are a few screenshots of the actual app currently:
+<!--# Preview Screenshots-->
+<!--Here are a few screenshots of the actual app currently:-->
 
-![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-201112.png, "screeshot") 
-![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-201033.png, "screeshot")
-![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200449.png, "screeshot")
-![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200454.png, "screeshot") 
-![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200950.png, "screeshot") 
+<!--![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-201112.png, "screeshot") -->
+<!--![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-201033.png, "screeshot")-->
+<!--![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200449.png, "screeshot")-->
+<!--![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200454.png, "screeshot") -->
+<!--![alt text](https://github.com/hlminh2000/fiveMinuteJournal/raw/master/screenshots/Screenshot_20170501-200950.png, "screeshot") -->
 
-<!-- ![Image of Yaktocat](screenshots/Screenshot_20170501-200449.png) -->

@@ -10,6 +10,10 @@ app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
 app.use(express.static('client/public'))
 
+app.use('*', (res, req, next) => {
+    console.log("HIT!")
+    next()
+})
 
 app.get('/', function (req, res) {
     res.send('Hello World!')
