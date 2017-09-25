@@ -8,6 +8,7 @@ url: https://medium.com/@haleminh/the-power-of-teaching-d57f5b420e97
 description: What I learned about learning through teaching
 ---
 
+This article was originally published on my Medium at: https://medium.com/@haleminh/the-power-of-teaching-d57f5b420e97
 
 I’m a beginner. I have been coding professionally (and for that matter, seriously) just for over a year, which in perspective is not very long. I see my friends who code, my seniors, co-workers, strangers on the internet, the authors of the books I read, etc… all as my teachers. And me, I am the student.
 
