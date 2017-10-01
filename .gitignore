@@ -1,3 +1,4 @@
 /scripts/server-access.sh
 node_modules
 references
+config.secret.json
