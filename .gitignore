@@ -1,2 +1,3 @@
 /scripts/server-access.sh
+node_modules
 references
