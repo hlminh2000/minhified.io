@@ -18,5 +18,6 @@ module.exports = {
     endPointLog: (req, res, next) => {
         logger.info(logTimestamp(), req.method, req.baseUrl)
         next()
-    }
+    },
+    info: logger.info
 }

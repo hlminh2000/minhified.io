@@ -31,10 +31,11 @@ app.use("/brain_scratch", express.static('client/brain_scratch'))
 
 
 app.post('/email', function(req, res){
+    logger.info(req.body)
     var mailOptions = {
         from: EMAIL_CREDENTIAL.email,
-        to: req.body.email,
-        subject: '[minhified.io] from ' + req.body.name,
+        to: "hlminh2000@gmail.com",
+        subject: '[minhified.io] from ' + req.body.name + " <" + req.body.email + ">",
         text: req.body.message
     };
     transporter.sendMail(mailOptions, function(error, info){
