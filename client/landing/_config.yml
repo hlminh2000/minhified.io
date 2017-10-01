@@ -34,7 +34,7 @@ medium_username:  haleminh
 medium_url:       https://medium.com/@haleminh
 
 # Visual settings
-tiles-count: 2
+tiles-count: 3
 tiles-source: posts
 
 # Build settings

@@ -3,7 +3,7 @@ layout: post
 title:  "Pixi.js Talk"
 date:   2017-09-30 18:23:16 +0000
 categories: talk
-image: assets/images/pixijs.jpg
+image: assets/images/pixijs.jpeg
 <!--url: -->
 description: Talk on Pixi JS
 ---
