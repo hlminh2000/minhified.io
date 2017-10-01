@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
 
 app.use("/", express.static('client/landing/public'))
-app.use("/brain_scratch", express.static('client/landing/brain_scratch'))
+app.use("/brain_scratch", express.static('client/brain_scratch'))
 
 
 
