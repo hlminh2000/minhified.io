@@ -7,7 +7,14 @@ const   express = require('express')
         EMAIL_CREDENTIAL = require("./config.secret.json")
         
 const transporter = nodemailer.createTransport({
-    service: 'gmail',
+    // service: 'gmail',
+    host: 'server115.web-hosting.com',
+    port: 465,
+    secure: true, // true for 465, false for other ports
+    auth: {
+        user: account.user, // generated ethereal user
+        pass: account.pass  // generated ethereal password
+    }
     auth: {
         user: EMAIL_CREDENTIAL.email,
         pass: EMAIL_CREDENTIAL.password,
