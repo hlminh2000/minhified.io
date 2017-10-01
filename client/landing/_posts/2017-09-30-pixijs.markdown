@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Pixi.js Talk"
+date:   2017-09-30 18:23:16 +0000
+categories: talk
+image: assets/images/pixijs.jpg
+<!--url: -->
+description: Talk on Pixi JS
+---
+
+It has been a while since I got to do a technical talk at Free Code Camp Toronto. This week's topic was on Pixi.js, a WebGL rendering library.
+
+Although Pixi and the canvas tag is not a very common tool in web development, they are great ways to get an overview of 2D graphics rendering.
+
+Through the talk, I hope to provide a different view on what front-end web development can involve and debunk the notion of front-end is all about layouts.
+
+# Content
+The content from the talk can be found at: <https://github.com/hlminh2000/fcc_pres/blob/master/pixi/PIXI.pdf>
+
+Sample code is also provided at: <https://github.com/hlminh2000/fcc_pres/tree/master/pixi/Samples>
+
+# My current project with Pixi:
+If you are interested, please check out my work-in-progress project done with Pixi.js and React.js: <http://minhified.io/brain_scratch>

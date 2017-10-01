@@ -11,7 +11,9 @@ app.use('*', logger.endPointLog)
 
 app.use(bodyParser.urlencoded());
 app.use(bodyParser.json());
+
 app.use("/", express.static('client/landing/public'))
+app.use("/brain_scratch", express.static('client/landing/brain_scratch'))
 
 
 
