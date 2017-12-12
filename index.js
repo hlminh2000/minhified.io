@@ -27,8 +27,7 @@ app.use(bodyParser.json());
 
 app.use("/", express.static('client/landing/public'))
 app.use("/brain_scratch", express.static('client/brain_scratch'))
-
-
+app.use("/dot_party", express.static('client/dot_party'))
 
 app.post('/email', function(req, res){
     var mailOptions = {
@@ -47,11 +46,6 @@ app.post('/email', function(req, res){
         }
     });
 })
-
-app.get('/yo', (req, res) => {
-    res.send("as;gsdfb")
-})
-
 
 server.listen(process.env.PORT || 50000, process.env.IP || "0.0.0.0", function () {
     console.log('https://landing-hlminh2000.c9users.io/')

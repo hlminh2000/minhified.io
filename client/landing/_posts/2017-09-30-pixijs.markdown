@@ -5,7 +5,7 @@ date:   2017-09-30 18:23:16 +0000
 categories: talk
 image: assets/images/pixijs.jpeg
 <!--url: -->
-description: Talk on Pixi JS
+description: My introduction to 2D graphics through Pixi JS
 ---
 
 It has been a while since I got to do a technical talk at Free Code Camp Toronto. This week's topic was on Pixi.js, a WebGL rendering library.
